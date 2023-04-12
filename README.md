@@ -1,9 +1,11 @@
 
 # Rapport
 
-**Skriv din rapport här!**
-
-_Du kan ta bort all text som finns sedan tidigare_.
+Det jag gjorde för denna uppgift var att jag skapade en ny constraint layout i filen "activity_main.xml"
+under foldern "layout". Sedan skapade jag 3 stycken widgets/views i denna constraint layout. Dessa 3 var
+en imageView och 2 buttons. Jag skapade 3 nya stings i filen "strings.xml" under foldern values där
+jag skrev in vad som skulle stå i dom olika knapparna samt vad som skulle stå i contentDescription på
+imageView widgeten.
 
 ## Följande grundsyn gäller dugga-svar:
 
