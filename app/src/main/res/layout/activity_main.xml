@@ -19,6 +19,7 @@
             android:layout_width="156dp"
             android:layout_height="164dp"
             android:layout_marginTop="80dp"
+            android:contentDescription="@string/imageDescription"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
@@ -31,7 +32,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginLeft="16dp"
             android:layout_marginBottom="16dp"
-            android:text="Ja"
+            android:text="@string/buttonYes"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
 
@@ -42,7 +43,7 @@
             android:layout_marginEnd="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
-            android:text="Nej"
+            android:text="@string/buttonNo"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
 

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Widgets</string>
+    <string name="imageDescription">Bild på sidan</string>
+    <string name="buttonYes">Ja</string>
+    <string name="buttonNo">Nej</string>
 </resources>
+
