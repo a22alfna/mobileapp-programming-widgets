@@ -20,5 +20,6 @@ nedan är koden för en utan mina knappar
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintStart_toStartOf="parent" />
 ```
+![img.png](img.png)
 
 
