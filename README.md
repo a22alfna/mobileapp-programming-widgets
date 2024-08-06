@@ -3,11 +3,11 @@
 
 Det jag gjorde för denna uppgift var att jag skapade en ny constraint layout i filen "activity_main.xml"
 under foldern "layout". Sedan skapade jag 3 stycken widgets/views i denna constraint layout. Dessa 3 var
-en imageView och 2 buttons. Jag skapade 3 nya stings i filen "strings.xml" under foldern values där
+en imageView och 2 buttons. Jag skapade 3 nya strings i filen "strings.xml" under foldern values där
 jag skrev in vad som skulle stå i dom olika knapparna samt vad som skulle stå i contentDescription på
 imageView widgeten. Jag constrainade sedan knapparna till botten av "parent" samt respektive 
 start och end samt så konstrainade jag image viewn till toppen av "parent" samt start och end.
-nedan är koden för en utan mina knappar
+nedan är koden för en utav mina knappar samt en screenshot på hur sidan med knapparna ser ut i appen
 ```
   <Button
       android:id="@+id/button"
